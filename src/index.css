@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* src/index.css or src/index.js */
+@import '@fontsource/roboto';
+
+
